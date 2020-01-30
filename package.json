@@ -1,0 +1,28 @@
+{
+  "name": "talkbot",
+  "version": "1.0.0",
+  "description": "\"Simple AI Talkbot\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindhuvahinis/talkbot.git"
+  },
+  "author": "Sindhu Vahini S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sindhuvahinis/talkbot/issues"
+  },
+  "homepage": "https://github.com/sindhuvahinis/talkbot#readme",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "request": "^2.88.0",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
